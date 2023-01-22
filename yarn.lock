@@ -420,9 +420,9 @@ undefsafe@^2.0.5:
   integrity sha512-WxONCrssBM8TSPRqN5EmsjVrsv4A8X12J4ArBiiayv3DyyG3ZlIg6yysuuSYdZsVz3TKcTg2fd//Ujd4CHV1iA==
 
 undici@^5.13.0:
-  version "5.15.0"
-  resolved "https://registry.yarnpkg.com/undici/-/undici-5.15.0.tgz#cb8437c43718673a8be59df0fdd4856ff6689283"
-  integrity sha512-wCAZJDyjw9Myv+Ay62LAoB+hZLPW9SmKbQkbHIhMw/acKSlpn7WohdMUc/Vd4j1iSMBO0hWwU8mjB7a5p5bl8g==
+  version "5.15.2"
+  resolved "https://registry.yarnpkg.com/undici/-/undici-5.15.2.tgz#97ac24def6cd0e04d20edec2ed58c25969282c83"
+  integrity sha512-JsN6meyJESMJaLqOuozstwrolSkLWlTIT4qpGoKepNdnZy7HJMPKB0v0Td/CepGgoiPpUSvVO9Nh/5N9QrmDgQ==
   dependencies:
     busboy "^1.6.0"
 
